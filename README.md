@@ -1,1 +1,1 @@
-# This site is live at https://freshteacher.software/master-key-education-services/
+# This site is live at https://freshteacher.tech/master-key-education-services/
